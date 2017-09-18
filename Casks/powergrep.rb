@@ -10,7 +10,6 @@ cask 'powergrep' do
   url "https://github.com/kadaan/homebrew-jgsoft/releases/download/PowerGrep_#{version}/PowerGrep_#{version}.tbz2"
   name 'PowerGrep'
   homepage 'https://www.powergrep.com'
-  license :commercial
 
   app 'PowerGrep.app'
 end
