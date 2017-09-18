@@ -10,7 +10,6 @@ cask 'regexbuddy' do
   url "https://github.com/kadaan/homebrew-jgsoft/releases/download/RegexBuddy_#{version}/RegexBuddy_#{version}.tbz2"
   name 'RegexBuddy'
   homepage 'https://www.regexbuddy.com'
-  license :commercial
 
   app 'RegexBuddy.app'
 end
