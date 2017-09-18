@@ -10,7 +10,6 @@ cask 'editpadpro' do
   url "https://github.com/kadaan/homebrew-jgsoft/releases/download/EditPad%20Pro_#{version}/EditPad%20Pro_#{version}.tbz2"
   name 'EditPad Pro'
   homepage 'https://www.editpadpro.com'
-  license :commercial
 
   app 'EditPad Pro.app'
 end
